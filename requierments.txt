@@ -1,0 +1,6 @@
+tensorflow
+keras
+numpy
+matplotlib
+jupyter-notebook
+pillow
